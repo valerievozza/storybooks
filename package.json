@@ -1,7 +1,7 @@
 {
-  "name": "sojournal",
+  "name": "storybooks",
   "version": "1.0.0",
-  "description": "App to write and share journal entries",
+  "description": "App to write and share stories",
   "main": "app.js",
   "scripts": {
     "start": "cross-env NODE_ENV=production node app.js",
